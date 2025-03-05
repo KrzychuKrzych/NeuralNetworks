@@ -127,4 +127,4 @@ Ten projekt jest udostępniany na licencji MIT. Szczegóły znajdują się w pli
 
 ## Autor
 
-[Twoje Imię] - projekt portfolio z zakresu uczenia maszynowego i przetwarzania obrazów.
+Krzysztof Sikorowski - projekt portfolio z zakresu uczenia maszynowego i przetwarzania obrazów.
