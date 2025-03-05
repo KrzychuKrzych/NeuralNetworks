@@ -31,7 +31,7 @@ def create_directory_structure():
 # Tworzenie struktury folderów
 create_directory_structure()
 
-# URL do danych (przykładowe URL, należy je zastąpić prawdziwymi linkami)
+# URL do danych
 vqa_v2_url = "https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Questions_Train_mscoco.zip"
 annotations_url = "https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip" 
 images_url = "http://images.cocodataset.org/zips/train2014.zip"
